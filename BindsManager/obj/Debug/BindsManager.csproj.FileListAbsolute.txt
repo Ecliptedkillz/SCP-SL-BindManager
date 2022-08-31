@@ -1,0 +1,10 @@
+C:\Users\tryca\OneDrive\Desktop\BindsManager\BindsManager\bin\Debug\BindsManager.exe.config
+C:\Users\tryca\OneDrive\Desktop\BindsManager\BindsManager\bin\Debug\BindsManager.exe
+C:\Users\tryca\OneDrive\Desktop\BindsManager\BindsManager\bin\Debug\BindsManager.pdb
+C:\Users\tryca\OneDrive\Desktop\BindsManager\BindsManager\obj\Debug\BindsManager.csproj.AssemblyReference.cache
+C:\Users\tryca\OneDrive\Desktop\BindsManager\BindsManager\obj\Debug\BindsManager.Main.resources
+C:\Users\tryca\OneDrive\Desktop\BindsManager\BindsManager\obj\Debug\BindsManager.Properties.Resources.resources
+C:\Users\tryca\OneDrive\Desktop\BindsManager\BindsManager\obj\Debug\BindsManager.csproj.GenerateResource.cache
+C:\Users\tryca\OneDrive\Desktop\BindsManager\BindsManager\obj\Debug\BindsManager.csproj.CoreCompileInputs.cache
+C:\Users\tryca\OneDrive\Desktop\BindsManager\BindsManager\obj\Debug\BindsManager.exe
+C:\Users\tryca\OneDrive\Desktop\BindsManager\BindsManager\obj\Debug\BindsManager.pdb
